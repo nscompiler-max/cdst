@@ -1,0 +1,1 @@
+Original image files are not embedded in the WordPress XML export. The redesigned site references image URLs recorded in the XML. Download the original wp-content/uploads folder from the hosting backup and place local image files here if you want a fully self-contained offline website.

@@ -1,0 +1,308 @@
+{
+  "source_file": "welcometocdst-computerdevelopmentsoftwaretechnology.WordPress.2026-11-19.xml",
+  "source_site": "https://cdst.co.in",
+  "records_in_export": 80,
+  "published_pages_services_posts": 16,
+  "published_pages": [
+    {
+      "title": "Contact",
+      "slug": "contact",
+      "type": "page",
+      "has_text": true
+    },
+    {
+      "title": "Gallery",
+      "slug": "photo-gallery",
+      "type": "page",
+      "has_text": false
+    },
+    {
+      "title": "Home",
+      "slug": "home",
+      "type": "page",
+      "has_text": true
+    },
+    {
+      "title": "About Us",
+      "slug": "about-us",
+      "type": "page",
+      "has_text": true
+    },
+    {
+      "title": "Our Services",
+      "slug": "our-services",
+      "type": "page",
+      "has_text": false
+    },
+    {
+      "title": "SCHOLARSHIPS AND EDUCATION LOAN ASSITANCE",
+      "slug": "scholarship",
+      "type": "service",
+      "has_text": true
+    },
+    {
+      "title": "CAREER COUNSELLING AND POST ACADEMIC ASSITANCE",
+      "slug": "visa-guidance-and-arrivals",
+      "type": "service",
+      "has_text": true
+    },
+    {
+      "title": "Admission Process and Visa Services",
+      "slug": "associate-degree-in-health-sciences-pre-med-program",
+      "type": "service",
+      "has_text": true
+    },
+    {
+      "title": "Understanding the System of Education",
+      "slug": "understanding-the-system-of-education",
+      "type": "page",
+      "has_text": true
+    },
+    {
+      "title": "Course Outline",
+      "slug": "course-outline",
+      "type": "page",
+      "has_text": true
+    },
+    {
+      "title": "WHY SPARTAN",
+      "slug": "why-spartan",
+      "type": "page",
+      "has_text": true
+    },
+    {
+      "title": "Faculty",
+      "slug": "faculty",
+      "type": "page",
+      "has_text": true
+    },
+    {
+      "title": "IEEE – Live Projects",
+      "slug": "iee",
+      "type": "page",
+      "has_text": true
+    },
+    {
+      "title": "Industrial Training",
+      "slug": "training",
+      "type": "page",
+      "has_text": true
+    },
+    {
+      "title": "Student ID No",
+      "slug": "student-id-no",
+      "type": "page",
+      "has_text": false
+    },
+    {
+      "title": "Student Registration",
+      "slug": "student-registration",
+      "type": "page",
+      "has_text": false
+    }
+  ],
+  "attachment_references": [
+    {
+      "id": "1072",
+      "title": "ramesh",
+      "url": "http://cdst.co.in/wp-content/uploads/2020/09/ramesh.jpg"
+    },
+    {
+      "id": "1073",
+      "title": "satish",
+      "url": "http://cdst.co.in/wp-content/uploads/2020/09/satish.jpg"
+    },
+    {
+      "id": "1320",
+      "title": "adm-icon",
+      "url": "http://cdst.co.in/wp-content/uploads/2020/10/adm-icon.png"
+    },
+    {
+      "id": "1321",
+      "title": "camp-icon",
+      "url": "http://cdst.co.in/wp-content/uploads/2020/10/camp-icon.png"
+    },
+    {
+      "id": "1322",
+      "title": "news",
+      "url": "http://cdst.co.in/wp-content/uploads/2020/10/news.png"
+    },
+    {
+      "id": "1323",
+      "title": "res-icon",
+      "url": "http://cdst.co.in/wp-content/uploads/2020/10/res-icon.png"
+    },
+    {
+      "id": "1327",
+      "title": "email2",
+      "url": "http://cdst.co.in/wp-content/uploads/2020/10/email2.png"
+    },
+    {
+      "id": "1328",
+      "title": "tel2",
+      "url": "http://cdst.co.in/wp-content/uploads/2020/10/tel2.png"
+    },
+    {
+      "id": "1737",
+      "title": "logo",
+      "url": "http://cdst.co.in/wp-content/uploads/2022/06/logo.png"
+    },
+    {
+      "id": "1740",
+      "title": "WhatsApp Image 2022-06-14 at 11.26.29 AM",
+      "url": "http://cdst.co.in/wp-content/uploads/2022/06/WhatsApp-Image-2022-06-14-at-11.26.29-AM.jpeg"
+    },
+    {
+      "id": "1741",
+      "title": "WhatsApp Image 2022-06-14 at 11.26.30 AM",
+      "url": "http://cdst.co.in/wp-content/uploads/2022/06/WhatsApp-Image-2022-06-14-at-11.26.30-AM.jpeg"
+    },
+    {
+      "id": "1742",
+      "title": "WhatsApp Image 2022-06-14 at 11.26.32 AM (3)",
+      "url": "http://cdst.co.in/wp-content/uploads/2022/06/WhatsApp-Image-2022-06-14-at-11.26.32-AM-3.jpeg"
+    },
+    {
+      "id": "1743",
+      "title": "WhatsApp Image 2022-06-14 at 11.26.28 AM (2)",
+      "url": "http://cdst.co.in/wp-content/uploads/2022/06/WhatsApp-Image-2022-06-14-at-11.26.28-AM-2.jpeg"
+    },
+    {
+      "id": "1747",
+      "title": "inner-page",
+      "url": "http://cdst.co.in/wp-content/uploads/2022/06/inner-page.png"
+    },
+    {
+      "id": "1749",
+      "title": "inner-banner",
+      "url": "http://cdst.co.in/wp-content/uploads/2022/06/inner-banner.jpg"
+    },
+    {
+      "id": "1754",
+      "title": "Business-Team",
+      "url": "http://cdst.co.in/wp-content/uploads/2022/06/Business-Team.png"
+    },
+    {
+      "id": "1766",
+      "title": "WhatsApp Image 2022-06-14 at 11.26.29 AM (1)",
+      "url": "http://cdst.co.in/wp-content/uploads/2022/06/WhatsApp-Image-2022-06-14-at-11.26.29-AM-1.jpeg"
+    },
+    {
+      "id": "1767",
+      "title": "WhatsApp Image 2022-06-14 at 11.26.29 AM",
+      "url": "http://cdst.co.in/wp-content/uploads/2022/06/WhatsApp-Image-2022-06-14-at-11.26.29-AM-2.jpeg"
+    },
+    {
+      "id": "1768",
+      "title": "WhatsApp Image 2022-06-14 at 11.26.30 AM (2)",
+      "url": "http://cdst.co.in/wp-content/uploads/2022/06/WhatsApp-Image-2022-06-14-at-11.26.30-AM-2.jpeg"
+    },
+    {
+      "id": "1769",
+      "title": "WhatsApp Image 2022-06-14 at 11.26.32 AM (2)",
+      "url": "http://cdst.co.in/wp-content/uploads/2022/06/WhatsApp-Image-2022-06-14-at-11.26.32-AM-2.jpeg"
+    },
+    {
+      "id": "1770",
+      "title": "WhatsApp Image 2022-06-14 at 11.26.33 AM (2)",
+      "url": "http://cdst.co.in/wp-content/uploads/2022/06/WhatsApp-Image-2022-06-14-at-11.26.33-AM-2.jpeg"
+    },
+    {
+      "id": "1771",
+      "title": "WhatsApp Image 2022-06-14 at 11.26.34 AM (1)",
+      "url": "http://cdst.co.in/wp-content/uploads/2022/06/WhatsApp-Image-2022-06-14-at-11.26.34-AM-1.jpeg"
+    },
+    {
+      "id": "1778",
+      "title": "WhatsApp Image 2022-06-14 at 11.26.33 AM",
+      "url": "http://cdst.co.in/wp-content/uploads/2022/06/WhatsApp-Image-2022-06-14-at-11.26.33-AM.jpeg"
+    },
+    {
+      "id": "1779",
+      "title": "WhatsApp Image 2022-06-14 at 11.26.34 AM",
+      "url": "http://cdst.co.in/wp-content/uploads/2022/06/WhatsApp-Image-2022-06-14-at-11.26.34-AM.jpeg"
+    },
+    {
+      "id": "1780",
+      "title": "WhatsApp Image 2022-06-14 at 11.26.31 AM",
+      "url": "http://cdst.co.in/wp-content/uploads/2022/06/WhatsApp-Image-2022-06-14-at-11.26.31-AM.jpeg"
+    },
+    {
+      "id": "1781",
+      "title": "WhatsApp Image 2022-06-14 at 11.26.32 AM (1)",
+      "url": "http://cdst.co.in/wp-content/uploads/2022/06/WhatsApp-Image-2022-06-14-at-11.26.32-AM-1.jpeg"
+    },
+    {
+      "id": "1782",
+      "title": "WhatsApp Image 2022-06-18 at 9.54.50 PM (1) (1)",
+      "url": "http://cdst.co.in/wp-content/uploads/2022/06/WhatsApp-Image-2022-06-18-at-9.54.50-PM-1-1.jpeg"
+    },
+    {
+      "id": "1797",
+      "title": "WhatsApp Image 2022-06-14 at 11.26.31 AM (1)",
+      "url": "http://cdst.co.in/wp-content/uploads/2022/06/WhatsApp-Image-2022-06-14-at-11.26.31-AM-1.jpeg"
+    },
+    {
+      "id": "1798",
+      "title": "WhatsApp Image 2022-06-14 at 11.26.31 AM (2)",
+      "url": "http://cdst.co.in/wp-content/uploads/2022/06/WhatsApp-Image-2022-06-14-at-11.26.31-AM-2.jpeg"
+    },
+    {
+      "id": "1799",
+      "title": "WhatsApp Image 2022-06-14 at 11.26.33 AM (1)",
+      "url": "http://cdst.co.in/wp-content/uploads/2022/06/WhatsApp-Image-2022-06-14-at-11.26.33-AM-1.jpeg"
+    },
+    {
+      "id": "1800",
+      "title": "WhatsApp Image 2022-06-14 at 11.26.34 AM (1)",
+      "url": "http://cdst.co.in/wp-content/uploads/2022/06/WhatsApp-Image-2022-06-14-at-11.26.34-AM-1-1.jpeg"
+    },
+    {
+      "id": "1801",
+      "title": "WhatsApp Image 2022-06-14 at 11.26.28 AM (1)",
+      "url": "http://cdst.co.in/wp-content/uploads/2022/06/WhatsApp-Image-2022-06-14-at-11.26.28-AM-1.jpeg"
+    },
+    {
+      "id": "1802",
+      "title": "WhatsApp Image 2022-06-14 at 11.26.28 AM (2)",
+      "url": "http://cdst.co.in/wp-content/uploads/2022/06/WhatsApp-Image-2022-06-14-at-11.26.28-AM-2-1.jpeg"
+    },
+    {
+      "id": "1803",
+      "title": "WhatsApp Image 2022-06-14 at 11.26.28 AM",
+      "url": "http://cdst.co.in/wp-content/uploads/2022/06/WhatsApp-Image-2022-06-14-at-11.26.28-AM.jpeg"
+    },
+    {
+      "id": "1836",
+      "title": "WhatsApp Image 2022-06-20 at 11.30.25 AM",
+      "url": "http://cdst.co.in/wp-content/uploads/2022/06/WhatsApp-Image-2022-06-20-at-11.30.25-AM.jpeg"
+    },
+    {
+      "id": "1842",
+      "title": "Bosch-symbol copy",
+      "url": "http://cdst.co.in/wp-content/uploads/2022/06/Bosch-symbol-copy-scaled.jpg"
+    },
+    {
+      "id": "1843",
+      "title": "cdst-bosch",
+      "url": "http://cdst.co.in/wp-content/uploads/2022/06/cdst-bosch.jpg"
+    },
+    {
+      "id": "1865",
+      "title": "CDST Computer Education, Vijayawada (1)",
+      "url": "http://cdst.co.in/wp-content/uploads/2023/11/CDST-Computer-Education-Vijayawada-1.xlsx"
+    },
+    {
+      "id": "1868",
+      "title": "LOKESH",
+      "url": "http://cdst.co.in/wp-content/uploads/2023/11/LOKESH.pdf"
+    }
+  ],
+  "notes": [
+    "This is a static, responsive redesign generated from the supplied WordPress WXR export.",
+    "Spartan/medical education pages are retained and grouped in a separate Medical Education section.",
+    "The XML contains attachment URLs and metadata, not the actual uploaded image binaries.",
+    "Some WordPress builder shortcodes and theme/plugin behavior cannot be reproduced from WXR alone.",
+    "Historical medical education, accreditation, fees, exam and outcome claims are presented as archived source content and should be reverified before being used as current facts."
+  ]
+}
